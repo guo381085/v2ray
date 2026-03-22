@@ -1,0 +1,26 @@
+{
+  "spider": "",
+  "wallpaper": "https://api.kdcc.cn",
+  "sites": [],
+  "parses": [],
+  "lives": [
+    {
+      "name": "CCTV4K",
+      "type": 0,
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8",
+      "epg": ""
+    },
+    {
+      "name": "CCTV4K",
+      "type": 0,
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8",
+      "epg": ""
+    },
+    {
+      "name": "CCTV4K",
+      "type": 0,
+      "url": "http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8",
+      "epg": ""
+    }
+  ]
+}
